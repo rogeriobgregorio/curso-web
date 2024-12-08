@@ -28,7 +28,7 @@ Aqui estão os projetos que você encontrará neste repositório, organizados po
 ## Como Rodar os Projetos
 1. Clone este repositório em seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/rogeriobgregorio/curso-web
 
 2. Navegue até a pasta do projeto desejado.
 
